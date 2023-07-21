@@ -1,14 +1,12 @@
 # Khata Zero - Tic Tac Toe App
 
-![Khata Zero Logo](link_to_logo.png)
-
 Khata Zero is a fun and entertaining Tic Tac Toe app that offers three exciting playing modes to challenge your skills! Whether you want to play with a friend, challenge an AI opponent, or enjoy the AI commentator's entertaining remarks, Khata Zero has something for everyone.
 
 ## Download
 
 You can **download the latest version** of **Khata Zero** from the following:
 
-[![Download Khata Zero App](https://img.shields.io/badge/Download-Khata%20Zero%20App-cyan?style=for-the-badge)](https://github.com/your_username/Khata-Zero/raw/main/Khata%20Zero.apk)
+[![Download Khata Zero App](https://img.shields.io/badge/Download-Khata%20Zero%20App-cyan?style=for-the-badge)](https://github.com/Harkamal1/Khata-Zero/raw/main/Khata%20Zero.apk)
 
 Click on the "Download Khata Zero" button above to get the app on your device and start playing Tic Tac Toe with friends and challenging AI opponents!
 

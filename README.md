@@ -25,9 +25,10 @@ To get started with Khata Zero, follow these simple steps:
 
 ## Screenshots
 
-![Screenshot 1](link_to_screenshot1.png)
-![Screenshot 2](link_to_screenshot2.png)
-![Screenshot 3](link_to_screenshot3.png)
+![Screenshot 1](https://github.com/Harkamal1/Khata-Zero/blob/screenshots/image1.jpg)
+![Screenshot 2](https://github.com/Harkamal1/Khata-Zero/blob/screenshots/image2.jpg)
+![Screenshot 3](https://github.com/Harkamal1/Khata-Zero/blob/screenshots/image3.jpg)
+![Screenshot 3](https://github.com/Harkamal1/Khata-Zero/blob/screenshots/image4.jpg)
 
 ## Contributing
 
